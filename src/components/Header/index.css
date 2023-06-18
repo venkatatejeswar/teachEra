@@ -1,0 +1,10 @@
+.header {
+  width: 100%;
+  min-height: 8vh;
+  padding: 20px;
+  background-color: #f1f5f9;
+  margin-top: 0px;
+}
+.logo {
+  width: 120px;
+}
